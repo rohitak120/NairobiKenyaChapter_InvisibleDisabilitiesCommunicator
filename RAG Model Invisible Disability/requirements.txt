@@ -1,0 +1,7 @@
+langchain
+unstructured[all-docs]
+langchain-community
+gradio
+faiss-cpu
+langchain_groq
+sentence-transformers
